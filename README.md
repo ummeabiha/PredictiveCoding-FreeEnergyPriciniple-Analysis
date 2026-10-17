@@ -10,8 +10,8 @@ Simplified implementations and research summaries of two related papers. The fir
 |---|---|
 | `TheFreeEnergyPrinciple.ipynb` | Perceptual inference, active inference and hierarchical free-energy minimization |
 | `PredictiveCoding.ipynb` | Predictive Coding vs Backpropagation on a nonlinear regression task |
-| `Free Energy Principle.pdf` | Research analysis summary of Friston (2009) |
-| `Brain Inspired Computional Intelligence via Predictive Coding.pdf` | Research analysis summary of Salvatori et al. |
+| `Free Energy Principle - Analysis Summary.pdf` | Research analysis summary of Friston (2009) |
+| `Brain Inspired Computional Intelligence via PC.pdf` | Research analysis summary of Salvatori et al. |
 
 
 ## 1. Free-Energy Principle
